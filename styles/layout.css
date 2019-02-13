@@ -402,6 +402,25 @@ color: silver;
 }
 
 p.nospace.no{
-	display: none
+	display: none;
+}
+
+.top-title{
+
+style= text-align:justify;
+font-family: Comic Sans MS;
+
+}
+
+.sdb_holder
+{
+	 background-color: white;
+	 color: black !important;
+}
+
+.comments
+{
+
+	background-color: silver;
 }
 
