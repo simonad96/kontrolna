@@ -384,3 +384,23 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
+
+
+.top-title{
+
+style= text-align:justify;
+font-family: Comic Sans MS;
+
+}
+
+.sdb_holder
+{
+	 background-color: white;
+	 color: black !important
+}
+
+.comments
+{
+
+	background-color: silver;
+}
